@@ -6,3 +6,4 @@ El gran magnate G ha sido hábil colocando sus llamativos esbirros en nuestras m
 
 El objeto de este proyecto es desarrollar una herramienta web para que quienes quieran puedan conocer qué información sobre ellos almacenan las diferentes aplicaciones y cómo se organiza, pasaremos a visualizarla de forma cómoda, facilitando diferentes clasificaciones para navegarla. Dentro de esta misma herramienta se incluirán recursos tanto textuales como vídeo-tutoriales.
 
+[+ info del proyecto](https://www.medialab-prado.es/proyectos/dispositivos-espia-el-gran-g-y-sus-secuaces)
