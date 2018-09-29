@@ -1,5 +1,5 @@
 /**
-* Script para sacar los datos de las imagenes de google y extraer en un csv el ditulo, numero de visitas y la fecha
+ * Script para sacar los datos de las imagenes de google y extraer en un csv el ditulo, numero de visitas y la fecha
  */
 Table table; //tabla para guardar los datos que necesitamos
 import java.util.Date;
@@ -14,9 +14,11 @@ void setup() {
   table = new Table();
 
   table.addColumn("title");
-  table.addColumn("imageViews");
+ // table.addColumn("imageViews");
   table.addColumn("timestamp"); //photoTakenTime
   table.addColumn("timestampU"); //photoTakenTime Unix
+  table.addColumn("latitud"); //photoTakenTime Unix
+  table.addColumn("longitud"); //photoTakenTime Unix
 
 
 
@@ -47,7 +49,8 @@ void setup() {
           int imagesViews = json.getInt("imageViews");
           // String species = json.getString("species");
           //String name = json.getString("name");
-          JSONObject child = json.getJSONObject("photoTakenTime");
+          JSONObject childTime = json.getJSONObject("photoTakenTime");
+          JSONObject geoData = json.getJSONObject("geoData");
 
 
 
@@ -55,9 +58,11 @@ void setup() {
           //escribimos en el csv
           TableRow newRow = table.addRow();
           newRow.setString("title", list[0]+"."+list[1]);
-          newRow.setInt("imageViews", imagesViews);
-          newRow.setString("timestamp", child.getString("formatted"));
-          newRow.setString("timestampU", child.getString("timestamp"));
+         // newRow.setInt("imageViews", imagesViews);
+          newRow.setString("timestamp", childTime.getString("formatted"));
+          newRow.setString("timestampU", childTime.getString("timestamp"));
+          newRow.setDouble("latitud", geoData.getDouble("latitude"));
+          newRow.setDouble("longitud", geoData.getDouble("longitude"));
           cont++;
         }
       }
