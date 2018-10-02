@@ -1,6 +1,6 @@
 # El gran G y sus secuaces
 
-![Portada del proyecto El gran G y sus secuaces en el que muestra a un personaje dibujado el que parece un espía leyendo un periódicol](https://www.medialab-prado.es/sites/default/files/styles/imagenes_medianas/public/2018-07/Andoride-Espi%CC%81a.jpg?itok=TuZnx0GC "El gran G y sus secuaces")
+![Portada provisional del webcomic](https://pbs.twimg.com/media/DogvTSvXsAA0mrx.jpg:large)
 
 ¿Qué pasaría si de pronto te dieras cuenta de que al usar tus dispositivos, unos seres extraños que nunca habías visto te espían en las sombras? Observan las fotos que tomas, se esconden en tu habitación mientras ves vídeos, te persiguen en tus recorridos, vigilan qué páginas visitas en el trabajo, leen tus emails…
 
