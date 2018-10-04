@@ -1,7 +1,7 @@
 ![Portada provisional del webcomic](https://pbs.twimg.com/media/DogvTSvXsAA0mrx.jpg:large)
 >
 ‘El Gran G y sus secuaces’ es un proyecto nacido de la convocatoria [Visualizar’18: Datos personales](https://www.medialab-prado.es/programas/visualizar18-datos-personales)
-, impulsada desde el Datalab de Medialab-Prado (Madrid). El proyecto se ha desarrollado durante los meses de septiembre y octubre de 2018 a través de prácticas colaborativas con compañeras especialistas en diferentes disciplinas. Podéis encontrar en este github la documentación de este proceso.
+, impulsada desde el [Datalab](https://www.medialab-prado.es/laboratorios/datalab) de Medialab-Prado (Madrid). El proyecto se ha desarrollado durante los meses de septiembre y octubre de 2018 a través de prácticas colaborativas con compañeras especialistas en diferentes disciplinas. Podéis encontrar en este github la documentación de este proceso.
 
 ¿Qué pasaría si de pronto te dieras cuenta de que al usar tus dispositivos, unos seres extraños que nunca habías visto te espían en las sombras? Observan las fotos que tomas, se esconden en tu habitación mientras ves vídeos, te persiguen en tus recorridos, vigilan qué páginas visitas en el trabajo, leen tus emails…
 
