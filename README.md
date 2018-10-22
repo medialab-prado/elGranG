@@ -10,4 +10,4 @@ El Gran G y sus secuaces es un web-comic que cuenta la historia de cómo, a trav
 Mediante esta narrativa de espionaje, buscamos concienciar a las usuarias de que los datos que G recoge de nosotras sirven para mucho más que mejorar nuestra experiencia de uso, y van más allá de nuestros dispositivos. La interfaz incluye, además del cómic, una guía para gestionar tus permisos en las diferentes aplicaciones. Pero los límites de lo que nos dejan o no controlar no abarcan ni la décima parte de lo que obtienen de nosotras, y es por ello que debemos buscar alternativas que gestionen nuestros datos de una forma más ética o, como mínimo, más transparente.
 
 
-[+ info del proyecto](https://www.medialab-prado.es/proyectos/dispositivos-espia-el-gran-g-y-sus-secuaces)
+[+ info en la web de Medialab](https://www.medialab-prado.es/proyectos/dispositivos-espia-el-gran-g-y-sus-secuaces)
