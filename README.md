@@ -7,8 +7,14 @@ En estos enlaces se pueden descargar <b> versiones ejecutables completas del com
 [Windows](http://Astordigital.co/comic/Ejecutables/Windows.zip) |
 [Mac](http://astordigital.co/comic/Ejecutables/lMac.zip) |
 [Linux](http://astordigital.co/comic/Ejecutables//Linux.zip)
-
 Por el momento, estamos trabajando en adaptar este ejecutable a una versión web.
+
+
+Por otra parte, el archivo llamado [Guíagestionar...](https://github.com/medialab-prado/elGranG/blob/master/Guia%20gestionar%20ElgranG.pdf) podéis encontrar una guía PDF sencilla (versión 'para que lo entienda mi madre') sobre cómo llegar a nuestros datos y gestionar aq1uellos permisos que están a nuestro alcance en Google.
+El resto de recursos son scripts desarrollados por facilitadores de #visualizar18 a través de los cuales obtener datos refinados que pudieran dar lugar a las visualizaciones gráficas que contiene el comic.
+
+Dichas visualizaciones, así como las páginas completas del comic en formato A4, están contenidas el archivo PDF 'Comic versión imprimible'.
+
 <br>
 </br>
 <i>¿Qué pasaría si de pronto te dieras cuenta de que al usar tus dispositivos, unos seres extraños que nunca habías visto te espían en las sombras? Observan las fotos que tomas, se esconden en tu habitación mientras ves vídeos, te persiguen en tus recorridos, vigilan qué páginas visitas en el trabajo, leen tus emails…
