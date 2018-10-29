@@ -13,7 +13,7 @@ Por el momento, estamos trabajando en adaptar este ejecutable a una versión web
 Por otra parte, podéis encontrar una [guía PDF sencilla](https://github.com/medialab-prado/elGranG/blob/master/Guia%20gestionar%20ElgranG.pdf) (versión 'para que lo entienda mi madre') sobre cómo llegar a nuestros datos y gestionar aq1uellos permisos que están a nuestro alcance en Google.
 El resto de recursos son scripts desarrollados por facilitadores de #visualizar18 a través de los cuales obtener datos refinados que pudieran dar lugar a las visualizaciones gráficas que contiene el comic.
 
-Dichas visualizaciones, así como las páginas completas del comic en formato A4, están contenidas el archivo PDF 'Comic versión imprimible'.
+Dichas visualizaciones, así como las páginas completas del comic en formato A4, están contenidas este archivo PDF [El Gran G - versión a4 imprimible](https://github.com/medialab-prado/elGranG/blob/master/El%20Gran%20G%20-%20versi%C3%B3n%20a4%20imprimible.pdf)
 
 <br>
 </br>
