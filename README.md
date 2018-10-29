@@ -1,7 +1,7 @@
 ![Portada provisional del webcomic](https://pbs.twimg.com/media/DogvTSvXsAA0mrx.jpg:large)
 >
 ‘El Gran G y sus secuaces’ es un proyecto nacido de la convocatoria [Visualizar’18: Datos personales](https://www.medialab-prado.es/programas/visualizar18-datos-personales)
-, impulsada desde el [Datalab](https://www.medialab-prado.es/laboratorios/datalab) de Medialab-Prado (Madrid). El proyecto se ha desarrollado durante los meses de septiembre y octubre de 2018 a través de prácticas colaborativas con compañeras especialistas en diferentes disciplinas. Podéis encontrar en este github la documentación de este proceso.
+, impulsada desde el [Datalab](https://www.medialab-prado.es/laboratorios/datalab) de Medialab-Prado (Madrid). El proyecto se ha desarrollado durante los meses de septiembre y octubre de 2018 a través de prácticas colaborativas con compañeras especialistas en diferentes disciplinas. Podéis encontrar en este github la documentación relativa a este proceso.
 
 En estos enlaces se pueden descargar <b> versiones ejecutables completas del comic </b> para diferentes OS:
 [Windows](http://Astordigital.co/comic/Ejecutables/Windows.zip) |
