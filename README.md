@@ -10,7 +10,7 @@ En estos enlaces se pueden descargar <b> versiones ejecutables completas del com
 Por el momento, estamos trabajando en adaptar este ejecutable a una versión web.
 
 
-Por otra parte, el archivo llamado [Guíagestionar...](https://github.com/medialab-prado/elGranG/blob/master/Guia%20gestionar%20ElgranG.pdf) podéis encontrar una guía PDF sencilla (versión 'para que lo entienda mi madre') sobre cómo llegar a nuestros datos y gestionar aq1uellos permisos que están a nuestro alcance en Google.
+Por otra parte, podéis encontrar una [guía PDF sencilla](https://github.com/medialab-prado/elGranG/blob/master/Guia%20gestionar%20ElgranG.pdf) (versión 'para que lo entienda mi madre') sobre cómo llegar a nuestros datos y gestionar aq1uellos permisos que están a nuestro alcance en Google.
 El resto de recursos son scripts desarrollados por facilitadores de #visualizar18 a través de los cuales obtener datos refinados que pudieran dar lugar a las visualizaciones gráficas que contiene el comic.
 
 Dichas visualizaciones, así como las páginas completas del comic en formato A4, están contenidas el archivo PDF 'Comic versión imprimible'.
