@@ -1,3 +1,7 @@
+/**
+ * Script para obtener patrones de uso de redes sociales desde una semana aleatoria del historial de navegación
+ */
+
 import datetime
 import json
 import csv
