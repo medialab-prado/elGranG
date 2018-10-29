@@ -9,7 +9,6 @@ En estos enlaces se pueden descargar <b> versiones ejecutables completas del com
 [Linux](http://astordigital.co/comic/Ejecutables//Linux.zip)
 
 Por el momento, estamos trabajando en adaptar este ejecutable a una versión web.
-
 <br>
 </br>
 <i>¿Qué pasaría si de pronto te dieras cuenta de que al usar tus dispositivos, unos seres extraños que nunca habías visto te espían en las sombras? Observan las fotos que tomas, se esconden en tu habitación mientras ves vídeos, te persiguen en tus recorridos, vigilan qué páginas visitas en el trabajo, leen tus emails…
