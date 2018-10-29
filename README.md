@@ -5,8 +5,8 @@
 
 En estos enlaces se pueden descargar <b> versiones ejecutables completas del comic </b> para diferentes OS:
 [Windows](http://Astordigital.co/comic/Ejecutables/Windows.zip)
-[Mac] (http://astordigital.co/comic/Ejecutables/lMac.zip)
-[Linux] (http://astordigital.co/comic/Ejecutables//Linux.zip)
+[Mac](http://astordigital.co/comic/Ejecutables/lMac.zip)
+[Linux](http://astordigital.co/comic/Ejecutables//Linux.zip)
 
 Por el momento, estamos trabajando en adaptar este ejecutable a una versión web.
 
