@@ -10,7 +10,8 @@ En estos enlaces se pueden descargar <b> versiones ejecutables completas del com
 
 Por el momento, estamos trabajando en adaptar este ejecutable a una versión web.
 
-
+>
+>
 <i>¿Qué pasaría si de pronto te dieras cuenta de que al usar tus dispositivos, unos seres extraños que nunca habías visto te espían en las sombras? Observan las fotos que tomas, se esconden en tu habitación mientras ves vídeos, te persiguen en tus recorridos, vigilan qué páginas visitas en el trabajo, leen tus emails…
 
 El Gran G y sus secuaces es un web-comic que cuenta la historia de cómo, a través de las diferentes aplicaciones de nuestros móviles Android y el navegador Chrome, el gran magnate Google nos espía para obtener informaciones que puedan generar trapicheos rentables con otras figuras de poder. Sus esbirros androides nos persiguen y observan cada paso que damos, para reportar datos a la gran central, donde juegan con ellos. Mediante visualizaciones gráficas obtenidas de los datos de una usuaria real, acercamos posibles formas de organizarlos de modo que cuenten historias sobre cada una.
