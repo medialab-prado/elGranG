@@ -4,8 +4,8 @@
 , impulsada desde el [Datalab](https://www.medialab-prado.es/laboratorios/datalab) de Medialab-Prado (Madrid). El proyecto se ha desarrollado durante los meses de septiembre y octubre de 2018 a través de prácticas colaborativas con compañeras especialistas en diferentes disciplinas. Podéis encontrar en este github la documentación de este proceso.
 
 En estos enlaces se pueden descargar <b> versiones ejecutables completas del comic </b> para diferentes OS:
-[Windows](http://Astordigital.co/comic/Ejecutables/Windows.zip)
-[Mac](http://astordigital.co/comic/Ejecutables/lMac.zip)
+[Windows](http://Astordigital.co/comic/Ejecutables/Windows.zip) |
+[Mac](http://astordigital.co/comic/Ejecutables/lMac.zip) |
 [Linux](http://astordigital.co/comic/Ejecutables//Linux.zip)
 
 Por el momento, estamos trabajando en adaptar este ejecutable a una versión web.
